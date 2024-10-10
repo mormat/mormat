@@ -1,6 +1,6 @@
 I'm a results driven **Web Developer** with a focus on creating efficient, high quality and user-friendly web applications. 
 
-I absolute :heart: love writing *__SOLID__* code and using *__design patterns__*. 
+I absolute love writing *__SOLID__* code and using *__design patterns__*. 
 
 I also like writing **unit tests** (mostly `PHPUnit` and `Jest`) and **BDD** (`Gherkin`, `Cucumber`, `Selenium`). For my part, I consider that these tools are absolutely convenient. Don't you think so ? 
 
