@@ -1,5 +1,9 @@
 I'm a results driven **Web developer** with a focus on creating efficient, high quality and user-friendly web applications. 
 
+I absolute love writing *__SOLID__* code and using *__design patterns__*. 
+
+
+
 <!--
 **mormat/mormat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
