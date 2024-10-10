@@ -6,8 +6,6 @@ I also like writing **unit tests** (mostly `PHPUnit` and `Jest`) and **BDD** (`G
 
 I'm actually looking for jobs opportunities (as a freelance mostly). So if you're interested to work with me, please let me know.
 
-![php](https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png)
-
 <!--
 **mormat/mormat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
