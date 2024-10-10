@@ -2,6 +2,7 @@ I'm a results driven **Web developer** with a focus on creating efficient, high 
 
 I absolute love writing *__SOLID__* code and using *__design patterns__*. 
 
+I also like writing **unit tests** (mostly `PHPUnit` and `Jest`) and BDD (`Gherkin`, `Cucumber`, `Selenium`). For my part, quality is absolutely a *__must__*.
 
 
 <!--
