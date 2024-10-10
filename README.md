@@ -5,6 +5,9 @@ I absolute love writing *__SOLID__* code and using *__design patterns__*.
 I also like writing **unit tests** (mostly `PHPUnit` and `Jest`) and **BDD** (`Gherkin`, `Cucumber`, `Selenium`). For my part, I consider that these tools are absolutely convenient. Don't you think so ? 
 
 I'm actually looking for jobs opportunities (as a freelance mostly). So if you're interested to work with me, please let me know.
+
+![https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png]
+
 <!--
 **mormat/mormat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
