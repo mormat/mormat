@@ -1,6 +1,6 @@
-Results driven **PHP developer** with a focus on creating efficient, high quality and user-friendly web applications. 
+I'm a results driven **PHP developer** with a focus on creating efficient, high quality and user-friendly web applications. 
 
-Strong experience with PHP frameworks such as *__Symfony__*. 
+Strong experience with *__PHP__* frameworks such as *__Symfony__*. 
 
 Also skilled in *__HTML__*, *__CSS__*, *__Javascript/Jquery__*.
 
