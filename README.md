@@ -1,4 +1,4 @@
- (Results driven **PHP developer** with a focus on creating efficient, high quality and user-friendly web applications. Strong experience with PHP frameworks such as *__Symfony__*. Also skilled in *__HTML__*, *__CSS__*, *__Javascript/Jquery__*.
+Results driven **PHP developer** with a focus on creating efficient, high quality and user-friendly web applications. Strong experience with PHP frameworks such as *__Symfony__*. Also skilled in *__HTML__*, *__CSS__*, *__Javascript/Jquery__*.
 
 
 <!--
