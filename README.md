@@ -1,4 +1,4 @@
-I'm a results driven **Web Developer** with a focus on creating efficient, high quality and user-friendly web applications. 
+I'm a results driven **Web Developer** with a focus on creating efficient, high quality and user-friendly web applications. I'm always eager to please and my goal is to make my customers happy with my deliveries.
 
 I absolute love writing *__SOLID__* code and using *__design patterns__*. 
 
