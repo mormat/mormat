@@ -2,7 +2,9 @@ I'm a results driven **Web developer** with a focus on creating efficient, high 
 
 Strong experience with *__PHP__* frameworks such as *__Symfony__*. 
 
-Also skilled in *__HTML__*, *__CSS__*, *__Javascript/Jquery__*.
+Also skilled *__Javascript__, *__Jquery__*, *__nodejs__*, *__React__*'
+
+And also *__HTML__*, *__CSS__*, 
 
 
 <!--
