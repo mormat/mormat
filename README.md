@@ -1,12 +1,5 @@
 I'm a results driven **Web developer** with a focus on creating efficient, high quality and user-friendly web applications. 
 
-Strong experience with *__PHP__* frameworks such as *__Symfony__*. 
-
-Also skilled *__Javascript__, *__Jquery__*, *__nodejs__*, *__React__*'
-
-And also *__HTML__*, *__CSS__*, 
-
-
 <!--
 **mormat/mormat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
