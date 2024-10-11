@@ -2,7 +2,7 @@ I'm a results driven **Web Developer** with a focus on creating efficient, high 
 
 I absolute love writing *__SOLID__* code and using *__design patterns__*. 
 
-I also like writing **unit tests** (mostly `PHPUnit` and `Jest`) and **BDD** (`Gherkin`, `Cucumber`, `Selenium`). For my part, I consider that these tools are absolutely convenient. Don't you think so ? 
+I also like writing **unit tests** (mostly `PHPUnit` and `Jest`) and **BDD** (`Gherkin`, `Cucumber`, `Selenium`).
 
 I'm always eager to please and my goal is to make my customers happy with my deliveries.
 
