@@ -1,6 +1,5 @@
-Freelance web developer
-
 <!--
+
 I'm a results driven **Web Developer** with a focus on creating efficient, high quality and user-friendly web applications. 
 
 I absolute love writing *__SOLID__* code and using *__design patterns__*. 
